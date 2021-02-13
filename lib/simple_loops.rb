@@ -3,6 +3,6 @@
 def loop_message_five_times(message)
   message = ["Hello World."]
   
-  while 
+  while message
   
 end
