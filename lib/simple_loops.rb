@@ -36,6 +36,7 @@ end
 
 def output_array(array)
   array = ["Be yourself;", "everyone else is already taken", "- Oscar Wilde"]
+  array
 end
   
   
