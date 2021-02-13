@@ -34,4 +34,33 @@ def loop_message_n_times(message, number)
   puts "#{message} to be output #{number} times"
 end
 
-def output_array()
+def output_array(array)
+  
+end
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
