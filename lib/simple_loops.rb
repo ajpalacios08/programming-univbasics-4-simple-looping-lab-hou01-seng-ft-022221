@@ -10,7 +10,7 @@ def loop_message_five_times(message)
 end
 
 def loop_message_n_times(message, number)
-  message = "Hello Moon"
+  message = "Hello Moon."
   number = 5
   puts message
   puts message
