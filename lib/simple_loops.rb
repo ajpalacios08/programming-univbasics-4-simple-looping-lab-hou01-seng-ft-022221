@@ -19,5 +19,16 @@ def loop_message_n_times(message, number)
   puts message
   puts "#{message} to be output #{number} times"
   
-  message = ""
+  message = 'Hello Red Balloon.'
+  number = 10
+  puts message
+  puts message
+  puts message
+  puts message
+  puts message
+  puts message
+  puts message
+  puts message
+  puts message
+  puts message
 end
