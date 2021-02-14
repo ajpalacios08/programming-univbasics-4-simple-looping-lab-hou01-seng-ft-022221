@@ -16,8 +16,8 @@ def loop_message_n_times(message, number)
   while count < number do
     puts message
     count +=1
-  puts "#{message} to be output #{number} times"
 end
+puts "#{message} to be output #{number} times"
   
   message = 'Hello Red Balloon.'
   number = 10
@@ -25,8 +25,8 @@ end
   while count < number
   puts message
   count += 1
-  puts "#{message} to be output #{number} times"
 end
+puts "#{message} to be output #{number} times"
 end
 
 def output_array(array)
