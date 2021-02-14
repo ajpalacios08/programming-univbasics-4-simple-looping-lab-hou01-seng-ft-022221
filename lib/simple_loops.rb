@@ -12,22 +12,21 @@ end
 def loop_message_n_times(message, number)
   message = "Hello Moon."
   number = 5
-  
+  count = 0
+  while count < number do
+    puts message
+    count +=1
   puts "#{message} to be output #{number} times"
+end
   
   message = 'Hello Red Balloon.'
   number = 10
+  count = 0
+  while count < number
   puts message
-  puts message
-  puts message
-  puts message
-  puts message
-  puts message
-  puts message
-  puts message
-  puts message
-  puts message
+  count += 1
   puts "#{message} to be output #{number} times"
+end
 end
 
 def output_array(array)
