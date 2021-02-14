@@ -2,7 +2,8 @@
 
 def loop_message_five_times(message)
   message = ["Hello World."]
-  count
+  count = 0
+  while massase[count]
 end
 
 def loop_message_n_times(message, number)
