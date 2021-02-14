@@ -3,20 +3,24 @@
 def loop_message_five_times(message)
   message = ["Hello World."]
   count = 0
+  
   while count < 5 do
   puts message
     count += 1
   end
+  
 end
 
 def loop_message_n_times(message, number)
   message = "Hello Moon."
   number = 5
   count = 0
+  
   while count < number do
     puts message
     count +=1
 end
+
 puts "#{message} to be output #{number} times"
   
   message = 'Hello Red Balloon.'
@@ -26,7 +30,9 @@ puts "#{message} to be output #{number} times"
   puts message
   count += 1
 end
+
 puts "#{message} to be output #{number} times"
+
 end
 
 def output_array(array)
