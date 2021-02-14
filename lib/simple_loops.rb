@@ -44,7 +44,7 @@ end
 
 def return_string_array(array)
   array = [5, 4, 3, 2, 1]
-    count = 0
+  count = 0
   while count < array.length do
  
     count += 1
